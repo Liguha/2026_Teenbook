@@ -1,0 +1,17 @@
+{
+  "concepts": [
+    {
+      "name": "Почему телефон греется (физика)",
+      "file": "why_phone_heats.md"
+    },
+    {
+      "name": "Газировка и кости (химия тела)",
+      "file": "soda_and_bones.md"
+    },
+    {
+      "name": "Почему мы видим сны (биология)",
+      "file": "why_we_dream.md"
+    }
+  ]
+}
+
